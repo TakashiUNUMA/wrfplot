@@ -1,7 +1,7 @@
 !
 ! Program of calcucate indexes for WRF-ARW
 ! produced by Takashi Unuma, Kyoto Univ.
-! Last modified: 2013/01/11
+! Last modified: 2013/01/14
 !
 
 program calc_index
