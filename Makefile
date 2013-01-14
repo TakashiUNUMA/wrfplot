@@ -50,7 +50,7 @@ LINKOPTS  = -lstpk -lnetcdf
 #  Linux, single processor, Intel fortran compiler
 FC   = ifort
 #OPTS = -O0 -warn all -check all -traceback -FR -assume byterecl -fp-model precise -openmp -openmp-report1
-OPTS = -O3 -xSSE4.2 -fma -ipo -unroll0 -fno-alias -FR -assume byterecl -fp-model precise -openmp -openmp-report1
+OPTS = -O3 -xSSE4.2 -fma -ipo -unroll0 -fno-alias -FR -assume byterecl -fp-model precise -openmp
 #-----------------------------------------------------------------------------
 #  Linux, single processor, using g95 compiler
 #FC   = g95
